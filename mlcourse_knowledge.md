@@ -1,3 +1,4 @@
+# Lecture 3
 ### Why using a soft classifier rather than a hard classifier?
 * Soft prediction returns the predicted probability of your data point belonging in one of the classes. \
   Hard label is the class your model predict given the data point.
@@ -6,6 +7,8 @@
  [0.9,0.1]; and the output from hard prediction would be 0 or 1
 * So the soft prediction gives you more informatin about the model's confidence in prediction. 
   The higher the value for the predicted class, the more confident and accurate in the prediction will be.
+  
+# Lecture 4
 
 ### What is a Cost Function?
 * It is a function which measures the performances of a model for given data.
@@ -15,3 +18,29 @@
 
 
 ### What is Gradient Descent Algorithm?
+
+### What is Stochastic Gradients Descent?
+* Stochastic Gradient Descent minimizes the cost function using approximate gradients evaluated on mini-batches of the data.
+* Using mini-batches significantly speeds up calculations
+* Stochastic gradients reduce the risk of getting stuck in local minima.
+
+### what need to be noticed when using stochastic Gradients Descent?
+* Randomize data when constructing mini-batches
+* Transform your inputs
+* Monitor the out of sample performances
+* Adaptive optimization methods do not always have good generalization
+
+### How does SoftMax classification work?
+* The softmax function is a function that turns a vector of K real values into a vector of K real values that sum to 1. 
+* The input values can be positive , negetive , zero or greater than one, but the softmax transforms them into values between 0 and 1. 
+* The purpose is they can be interpreted as probabilities.
+
+### What are the learning Rates?
+* The learning rate is a tuning parameter in an optimization algorithm which determinzes the step size at each iteration while
+  moving toward a minimun of a loss function. 
+* For sufficiently small learning rate the algorithm will converge.
+* For too small will require too many computationally expensive steps
+* For too large the algorithm will start oscillating or diverging.
+### What are the learned weights?
+
+### Why do you need to monitor the learning rate for GD and SGD?
