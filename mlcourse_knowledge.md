@@ -70,3 +70,31 @@ Thsi result holds for any number of inputs and outputs.
 * Dropout is a technique where randomly selected neurons are ignored druing training.
 * Dropout is a regularization method that aproximates training a large number of neural networks with different architectures in parallel.
   During training, some number of layer outputs are randomly ignored or dropped out.
+  
+# Lecture 7
+### What is bias-variance tradeoff?
+
+### If we cannot understand why an AI made a decision, how will we know when the decision is wrong or right?
+* Layer-wise Prlevance Propafation(LRP)
+
+# Lecuture 8
+### What is pooling?
+* The pooling layer is commonly applied after a convolution layer to reduce the spatial size of the input. It is applied independently to each depth slice of the input valume,
+* Perform a sub-sampling at every depth
+* Replace a region by a single neuron
+* There are two different types of pooling, Maxinum Pooling and Average Pooling.
+### How does the filter convolution work?
+* We have a input , such as an image of pixel values, and we have a filter, which is a set of weights,
+  and the filter is systematically applied to the input data to create a feature map.
+### Waht is Correlation
+A correlation si a measure of the direction and the size of two or more variables in a data set.
+This means that when looking at statistical models, if one variable changes or moves in a specific direction,
+Then another variable does too. When behaviors like thsi appear between variables in studies, satitsticians assume a correlation,
+or link, between the samples. 
+* The primary types of correlations can occur in any given study:
+* Positive correlations represent a positive change in one variable because of another
+* Negative correlations represents a negative change in one variable becasue of another
+* A zero correlative relationship indicates there is no apparent link between two or more vaiables.
+### What are spruious correlations in high-d?
+
+
