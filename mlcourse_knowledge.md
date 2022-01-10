@@ -96,5 +96,45 @@ or link, between the samples.
 * Negative correlations represents a negative change in one variable becasue of another
 * A zero correlative relationship indicates there is no apparent link between two or more vaiables.
 ### What are spruious correlations in high-d?
+Spurious correlation in statictics represents a connection between two variables that seems to be a causal relationship but really is not.
 
+# Lecture 9
+### What is High Dimensional Data?
+* High Dimensional data refers to a dataset in which the number of features p is larger than the number of observations N, often written as p>>N.
+* When the number of features in a dataset exceeds the number of observations, we will never have a deterministic answer.
+* It becomes impossible to find a model that can describe the relationship between the predictor variables and the response variable because we do not have 
+  enough observations to train the model on.
+  
+  
+* 
+### What is the effective dimensionality of a data set?
+### What is a PCA?
+* Principal Component Analysis or PCA is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets,
+  by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
+* The idea of PCA is simple, reduce the number of variables of a data set, while preserving as much information as possible.
+### What is the step of PCA
+* Standardization
+  The aim of this step is to standardize the range of the continuous initial variables so that each one of them contributes equally to the analysis.
+* Covariance Matrix Computation
+  The aim of this step is to understand how the variables of the input data set are varying from the mean with respect to each other, or to see if there 
+  is any relationship between them.
+* Compute the eigenvectors and eigenvalues of the covariance matrix to identify the principal components.
+
+# Lecture 10
+### What is the DBSCAN method?
+DBSCAN estimats a density in a Neighborhood around every data point.
+* The algorithm does not require to specify the number of clusters
+* The algorithm has an computational cost of O(NlogN)
+* It works well with noisy data
+* It is great at separating clusters of high density versus clusters of low density within a given dataset
+* It is great with Handling ourliers within the datset
+### How does the K-means algorithm work?
+* K-means is the most famous topics under the realm of Unsupervised Learning in machine learning.
+* K-means takes data points as input and groups them into k clusters.
+* K-means is just a clustering algorithm. It uses the distance between points as a measure of similarity, based on k averages(means)
+* The idea behind k_means is that, we want to add k new points to the data we have. Each one of those points called a Centroid will be going around trying 
+  to center itself in the middle of one of the k clusters we have. Once those points stop moving , our clustering algorithm stops.
+  
+### Waht is a data anomaly?
+* A data that falls outside of what is acceptable is a data anomaly.
 
