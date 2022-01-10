@@ -45,6 +45,6 @@
 
 ### Why do you need to monitor the learning rate for GD and SGD?
 * For the GD and SGD algorithm, they are sensetive for the learning rate .
-* * For sufficiently small learning rate the algorithm will converge.
-* * For too small will require too many computationally expensive steps
-* * For too large the algorithm will start oscillating or diverging.
+* For sufficiently small learning rate the algorithm will converge.
+* For too small will require too many computationally expensive steps
+* For too large the algorithm will start oscillating or diverging.
