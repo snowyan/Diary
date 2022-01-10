@@ -48,3 +48,25 @@
 * For sufficiently small learning rate the algorithm will converge.
 * For too small will require too many computationally expensive steps
 * For too large the algorithm will start oscillating or diverging.
+
+# Lecture 5
+### An important paper about "Learning Prpresentations by Back-Progagating Errors"
+
+### What is a dense layer?
+All inputs are densely connected to all outputs, those are called a Dense layer.
+
+
+# Lecture 6
+### How to use Deep learning when you have limited data?
+* Try to increase diversity of data availabel for training without collecting new data
+* Apply transformations to existing data such as cropping , padding , and horizontal flipping
+
+### Why is a single layer neural network a universal function approximator?
+The universal App;roximation Theorem tells us that Neural networks has a kind of unversality i.e.
+no matter what f(x) is, there is a network that can approximately approach the result and do the job. 
+Thsi result holds for any number of inputs and outputs.
+
+### What is drop-out regularization?
+* Dropout is a technique where randomly selected neurons are ignored druing training.
+* Dropout is a regularization method that aproximates training a large number of neural networks with different architectures in parallel.
+  During training, some number of layer outputs are randomly ignored or dropped out.
