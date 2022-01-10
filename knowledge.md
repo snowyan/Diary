@@ -6,5 +6,5 @@
 * checkpoint_dir = '/model'
 * checkpoint_path = '/model/{}/'.format(epoch)
 ### how to remove databricks folder
-# notes the path does not include /dbfs
+* notes the path does not include /dbfs
 * dbutils.fs.rm(("/snow/MNISTDemo/train"), recurse=True)
