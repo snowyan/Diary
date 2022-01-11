@@ -169,3 +169,11 @@ The eigenvector with the largest eigenvalue is the direction along with the data
 
 ### What is t-SNE?
 t-SNE is t distributed stochastic neighbourhood embedding.
+### What is K-Mean?
+K-Mean is a simple clustering algorithm. 
+### How to caculate the K-Mean?
+* Step1: Selelct the centroids
+* Step2: Caculate the distance between every point and centroids.
+* Step3: Compare the vaue of the step2, the smaller one is belong to conrespond cluster.
+* Step4: Follow the step3's cluster result and average the same culster's value and modify the centriods values
+* Step5: Go back to Step2 until the cluster classificatin is the same.
