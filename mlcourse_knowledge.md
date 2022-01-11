@@ -138,3 +138,34 @@ DBSCAN estimats a density in a Neighborhood around every data point.
 ### Waht is a data anomaly?
 * A data that falls outside of what is acceptable is a data anomaly.
 
+# Question
+### What is Bias?
+* Bias is the simplifying assumptions made by the model to make the target function easier to approximate.
+### What is Variance?
+* Variance is the amount that the estimate of the target function will change given different training data
+### What is Trade-off?
+* Trade-off is tension between the error introduced by the bias and the variance.
+### What do you expect will happen with bias and variance as you increase the model of complexity?
+* Following the increase the model of complexity the bias is decrease and variance is increase.
+### What do you expect will happen with bias and variance as you increase the size of training data for a given model?
+* Bias decrease and vaiance is increase.
+### Do some online quiz
+### When using the Back-Propagation learning algorithm, what exactly is back-propagated , and from where to where?
+* Backpropagation algorithm is the most fundamental building block in a neural network. The algorithm is used to effectively train
+a neural network through a method called chain rule. After each forword pass through a network, backpropagation performs a backword pass while adjusting the moels parameters(weights and biases)
+### The basic equation for gradient descent training is this. Describe what the symbols in it refer to and how it can be used to derive a training algorithm for a multi-layer perceptron.(MLP)
+### Explain the main reason why a back-propagation training algorithm might not find a set of weights which minimizes the training error for a given feed-forward neural network.
+The back propagation stragegy is a steepest gradient method, a local optimization technique, Therefore it can become locked in a local optimum.
+### State one advantage of linear rectified activation compared to logistic sigmoid activation
+Compared to logistic sigmoid activation the advantage of linear rectified activation is the reduced likelihood of the gradient to vanish.
+Orther is ReLUs are sparsity and faster. More computationally efficient to compute.
+### Does it make sense to initialize all weights in a deep network to 0?
+* Zero initialization causes the neuron to memorize the same funcitons almost in each iterations and product the same outputs.
+* Random initialization is a better choice but initializing much high or low value can result in slower optimization
+* Use He initialization can solve the above issue to some extent.
+### Which eigenvalue indicates the direction of the largest varicance in the dataset?
+The eigenvector with the largest eigenvalue is the direction along with the data set has the maximum variance.
+### Draw and explain an example where t-SNE work better than PCA
+
+### What is t-SNE?
+t-SNE is t distributed stochastic neighbourhood embedding.
