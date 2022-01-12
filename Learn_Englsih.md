@@ -11,6 +11,6 @@
 * the glass is half full-- used to say that someone has a tendency to look at situation in a positive or negative way
 * Alignment--correct positon in relation to something else
 * Gratitude--feeling grateful, expressing thanks to another person
-* hamster on a wheel--someone involved in activities that make them busy all the time but without ever achieving anything inportant or managing to finish a task
-* satisfatction--the pleasure you feel when you do something you wanted to do, or get something you wanted to get
+* hamster on a wheel--someone involved in activities that make them busy all the time but without ever achieving anything important or managing to finish a task
+* satisfaction--the pleasure you feel when you do something you wanted to do, or get something you wanted to get
 * hedonic treadmill-the human tendency to return to the same level of hapiness after something very good or very bad has happened
