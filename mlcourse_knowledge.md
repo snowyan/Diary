@@ -1,4 +1,4 @@
-#Machine Learning
+# Machine Learning
 * Any learning preblem can be cast into an optimization problem by minimizing a risk function
 * The best function h in the space of all hypotheses H for the prediction task is the one associated the lowest empirical risk.
 # Lecture 1
