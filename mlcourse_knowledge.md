@@ -177,3 +177,10 @@ K-Mean is a simple clustering algorithm.
 * Step3: Compare the vaue of the step2, the smaller one is belong to conrespond cluster.
 * Step4: Follow the step3's cluster result and average the same culster's value and modify the centriods values
 * Step5: Go back to Step2 until the cluster classificatin is the same.
+### What is egglomerotive cluster?
+* egglomerotive use a bottom-up approch
+* each data points starts in its own cluster
+* by taking the two most similar clusters tegother and merge them
+### What is Divisive cluster?
+* divisive use a top-down approch
+* all data points start in the same cluster
