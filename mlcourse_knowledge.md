@@ -15,6 +15,13 @@ Classification and regression
 * To choose a hypothesis class we need to consider the Bias-Variance-tradeoff
 * more complex models reduce bias at some point the model complexity is too high to be fitted by the data and the variance increases.
 # Lecture 3
+### Hard classification
+* Perceptron ( hard classification)
+* it is not differentiable
+* it is not useful in case of noisy data when a unique classificatin is not possible
+### Soft classifier
+* Logistic or sigmoid function
+* retrurn the probability fo being in category n
 ### Why using a soft classifier rather than a hard classifier?
 * Soft prediction returns the predicted probability of your data point belonging in one of the classes. \
   Hard label is the class your model predict given the data point.
@@ -34,7 +41,12 @@ Classification and regression
 
 
 ### What is Gradient Descent Algorithm?
-
+* GD algorithm searchs optimal w by going downhill
+* GD only finds local minima of the risk or cost function
+* GD are computationally expensive to computer for large datasets
+* GD is sensitive to the choice of learning rate
+* GD treats all directions of the parameter space uniformly
+* GD is sensitive to initial conditions
 ### What is Stochastic Gradients Descent?
 * Stochastic Gradient Descent minimizes the cost function using approximate gradients evaluated on mini-batches of the data.
 * Using mini-batches significantly speeds up calculations
@@ -70,7 +82,22 @@ Classification and regression
 
 ### What is a dense layer?
 All inputs are densely connected to all outputs, those are called a Dense layer.
-
+### Common activation functions
+* For sigmoids and hyperbolic tangent functions the gradient vanishes when input weights become large
+* Vahishing gradients are a feature of saturation
+* The gradients of ReLUs and ELUs is finite also for large inputs
+### Why do we need non-linear activation functions?
+* Linear activation functions can only fit linear decision boundaries
+* Non-linear activation functions can fit complex decision boundaries
+* Activation function need to be non-linear
+### Neural Network
+* NNs are hierarchical layers of neurons
+* NNs can approximate any function but we need sufficiently large data to fit all w.
+* The four categories: 
+   1 general purpose neural networks for supervised learning
+   2 DDNs designed for image processing ex:CNNs
+   3 Neural Networks for sequential data ex: Recurrent Neural Networks(RNNs)
+   4 Neural Networks for unsupervised learning ex: Deep Boltzmann Machines
 
 # Lecture 6
 ### How to use Deep learning when you have limited data?
