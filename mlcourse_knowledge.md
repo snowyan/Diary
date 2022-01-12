@@ -1,3 +1,19 @@
+#Machine Learning
+* Any learning preblem can be cast into an optimization problem by minimizing a risk function
+* The best function h in the space of all hypotheses H for the prediction task is the one associated the lowest empirical risk.
+# Lecture 1
+### How would you define Machine Learning?
+* Machine Learning is a method of data analysis which automates analglical model building. It is a bunch of artificial intelligence based on the idea that 
+  system can learn from data , identify pattern and make dicisions with minimal human intervention.
+### What are the two most common supervised learning task?
+Classification and regression 
+# Lecture 2
+### Can you derive the Bayes optimal predictor for a square loss function?
+
+### Why is a good fit to the data not necessarily a good predictor
+### About the Bias-Variance tradeoff
+* To choose a hypothesis class we need to consider the Bias-Variance-tradeoff
+* more complex models reduce bias at some point the model complexity is too high to be fitted by the data and the variance increases.
 # Lecture 3
 ### Why using a soft classifier rather than a hard classifier?
 * Soft prediction returns the predicted probability of your data point belonging in one of the classes. \
