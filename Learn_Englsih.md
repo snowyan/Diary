@@ -14,3 +14,28 @@
 * hamster on a wheel--someone involved in activities that make them busy all the time but without ever achieving anything important or managing to finish a task
 * satisfaction--the pleasure you feel when you do something you wanted to do, or get something you wanted to get
 * hedonic treadmill-the human tendency to return to the same level of hapiness after something very good or very bad has happened
+
+### Why we forget the things we learn
+* photographic memory -- the ability to remember things in exact detail, like looking at a photograph
+* the odds of  -- the changes or probability that someting will happen
+* a one-off -- something that only happen once
+* such at (something)
+* be bad at doing something 
+* memorise -- learn something exactly so that you can repeat it later
+* deep learning -- a complete way of learning something that means you fully understand it and will not forget it
+
+### How do you learn to speak a language
+* Master - learn thoroughly or learn well
+* fluent -- speak well and without difficulty
+* frequency -- how often something occurs
+* inflections -- changes to the basic form words to show changes to the way they are used in a sentence
+* lemma -- the simplest form or base form of a word
+
+### what to do when you can't sleep
+* insomnia -- the condition of not going to sleep
+* tossing and turning -- move around a lot and trying to get to sleep without success
+* counter intuitive -- the opposite of what seems obvious or general , but which may be correct
+* decades -- many years
+* diluted -- make weaker
+* chronic -- long lasting ( of medical condition)
+* 
