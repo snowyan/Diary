@@ -38,4 +38,11 @@
 * decades -- many years
 * diluted -- make weaker
 * chronic -- long lasting ( of medical condition)
-* 
+
+### the history of swimming
+* take a dip -- go for a swim(informal)
+* swim against the tide -- not follow what everyone else is doing
+* inmodest -- shocking or embaressing because it shows too much of body
+* nude -- not wearing clothing , naked
+* play hooky -- stay away school without permission
+* frowned upon -- disapproved of
