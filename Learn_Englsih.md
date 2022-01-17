@@ -46,3 +46,12 @@
 * nude -- not wearing clothing , naked
 * play hooky -- stay away school without permission
 * frowned upon -- disapproved of
+
+# 2022/1/17
+### Music from architecture
+* eclectic -- describes the taste which includes a variety of styles
+* contentious -- creating or causing conflict
+* coming of age -- become an adult
+* predominant -- the strongest or most important
+* chants -- sing the same song over and over again
+* existential -- relating to human existence
