@@ -55,3 +55,10 @@
 * predominant -- the strongest or most important
 * chants -- sing the same song over and over again
 * existential -- relating to human existence
+### Smart tech and climate change
+* dig something up -- excavate, remove something from the ground
+* intermittent -- irregular, not continuous
+* balckouts -- periods of time without electricity or energy
+* in real time -- no delay; live
+* machine learning -- way computers learn and adapt based on collated data
+* simulate -- produce a computer model
