@@ -1,4 +1,5 @@
 # The words from the BBC 6 minutes
+# Week 2
 ### The Human library: Life as an open book
 * prejudice -- unfair and unresonable dislike of a particular group of people
 * safe space -- place where you feel protected from danger and harm
@@ -47,7 +48,7 @@
 * play hooky -- stay away school without permission
 * frowned upon -- disapproved of
 
-# 2022/1/17
+# week 3
 ### Music from architecture
 * eclectic -- describes the taste which includes a variety of styles
 * contentious -- creating or causing conflict
