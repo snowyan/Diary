@@ -62,3 +62,10 @@
 * in real time -- no delay; live
 * machine learning -- way computers learn and adapt based on collated data
 * simulate -- produce a computer model
+### Improving your memory
+* memory -- things we remember from the past
+* kinaesthetic -- learning by doing or praticing again and again
+* contextual -- seeing something in the situation where it usually exits
+* encoding -- changing information to a form that can. be stored or later recalled
+* intuitive sence -- doing something based on feeling rather than facts or proof
+* Alzheimer -- a disease affecting your brain that makes it difficult to remember things and getting worse as you get older
