@@ -7,3 +7,5 @@
 * dropDuplicates(): returns a new DataFrame with unique rows based on all or just a subset of columns
 * withColumn(): returns a new DataFrame by adding a column or replacing the existing column that has the same name. The first parameter is the name of the new column,
   the second is an expression of how to compute it.
+  
+![Spark Eco System](/sparkecosystem.png "Spark Eco System")
