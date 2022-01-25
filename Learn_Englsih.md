@@ -80,3 +80,10 @@
 * dispersion -- the action or processing to distribute things
 * refraction --
 * reflection -- 
+### I Love my language
+* Indigenous-- relating to the people wh0 originally lived in a place, rather than people who moved there from somewhere else
+* glee -- a feeling of happiness, pleasure or excitement
+* pass on to -- to give something to someone , usually in your family, who lives on after you die
+* bumps in the road -- small problems or delays that slow down or stop something from developing
+* immersion -- the process of learning something, such as a language or a skill , by using only that aNd nothing else
+* code-switching -- changing between two or more languages when you are speaking
