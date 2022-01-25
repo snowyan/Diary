@@ -70,3 +70,13 @@
 * encoding -- changing information to a form that can. be stored or later recalled
 * intuitive sence -- doing something based on feeling rather than facts or proof
 * Alzheimer -- a disease affecting your brain that makes it difficult to remember things and getting worse as you get older
+# week 4
+### How color affects us
+* green with envy -- the feeling someone has who wishes they had someone else has
+* govern -- control or influnce
+* sanctuary -- peaceful, relaxing or safe place
+* stimulation -- feeling of being exited, interested or enthused by something
+* pale -- colour that lacks intensity
+* dispersion -- the action or processing to distribute things
+* refraction --
+* reflection -- 
