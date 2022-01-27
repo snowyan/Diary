@@ -1,3 +1,14 @@
+### What is B-Splines
+* B-splines are defined by a polunomial degree and a sequence of knots(i.e. the number and position of knots).
+* Spline is a piecewise-polynomial function constructed using low degree polynomials which are continuously connected with smoothness conditions at joining points and the abscissas of these points are called 'knots'. The order of the spline m resembles the degree p of the used polynomial segments plus one (m = p +1) or the number of polynomials coefficients.( For instance, the cubic splines are constructed by third-degree polynomial and therefore, their order is m = 4).
+* The order of spline function determines the smoothness of picecewise-defined curve since the derivatives up to order m-2 of adjacent polynomial segments must fit together at joining points
+*  A spline function is determined by the degree of the polynomial "pieces", the polynomial coefficients and a collection of non descending knot values known as a knot vector or a knot sequence
+### What is B-splines useful
+* B-splines are very useful and popular tools for curve estimations in numerous applications.
+### Why we need to optimize B-splines
+### How we can optimize B-splines
+* Free knot splines
+* non-equidistant knot placement for the curve approximation 
 ### What is global analytic function?
 * There is a point $x_0 \in \R$ such that the Taylor series of f at x_0 exists and converges to f on all of \R.
 * There is a point x_0 \in \R such that f has a power series at x_0 that converges to f on all of \R.
