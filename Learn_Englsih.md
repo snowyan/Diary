@@ -87,3 +87,10 @@
 * bumps in the road -- small problems or delays that slow down or stop something from developing
 * immersion -- the process of learning something, such as a language or a skill , by using only that aNd nothing else
 * code-switching -- changing between two or more languages when you are speaking
+### Are humans a messy species
+* out of sight, out of mind -- said to emphasise that it is easier to forget something when you cannot see it
+* go to great lengths -- try very hard to achieve something
+* territorial markers -- smells secreted by animals into their dung or urine to mark their territory
+* disgust -- strong feeling of dislike or repulsion
+* nausea --the feeling that you are going to vomit or be sick
+* raise/ make a sthink about something -- make a strong public complaint
