@@ -3,9 +3,18 @@
 * Spline is a piecewise-polynomial function constructed using low degree polynomials which are continuously connected with smoothness conditions at joining points and the abscissas of these points are called 'knots'. The order of the spline m resembles the degree p of the used polynomial segments plus one (m = p +1) or the number of polynomials coefficients.( For instance, the cubic splines are constructed by third-degree polynomial and therefore, their order is m = 4).
 * The order of spline function determines the smoothness of picecewise-defined curve since the derivatives up to order m-2 of adjacent polynomial segments must fit together at joining points
 *  A spline function is determined by the degree of the polynomial "pieces", the polynomial coefficients and a collection of non descending knot values known as a knot vector or a knot sequence
+*  Each click created a new area to the line ( line segment). Each click also creates what's called a control point, or points that determine the shape of the curve. That's the gist of a spline. They create smooth curves out of irregular data points.
+### what is the challenge for B-splines
+* the identification of the number of knots 
+* their respective locations in non-uniform space in the most efficient computational cost
 ### What is B-splines useful
 * B-splines are very useful and popular tools for curve estimations in numerous applications.
 ### Why we need to optimize B-splines
+* when the data forms a smooth curve, many existing methods are avacable to solve the knots without any problems
+* when the curves contain non-trivial cases(e.x: discontinuous points, cusps points, cusps, truing points
+* too large number of knots can result in serious overfitting of the experimental data.
+### Which method can be used to optimize the knot sequence
+* Gauss-Newton
 ### How we can optimize B-splines
 * Free knot splines
 * non-equidistant knot placement for the curve approximation 
@@ -23,3 +32,7 @@
 *  Many-body wavefunction -- Contains the quantum probalility amplitude for every possible configuration of electrons
 ### Knot sequence
 * is a finite or bi-infinite nondecreasing sequence of real numbers without accumulation points
+### what is trivial and non-trivial
+* the trivial usually refers to a simple technical aspect of some proof or difinition
+* the non-trivial is commonly used to indicate that the example or a solutin is not simple, or that a statement or a theorem is not easy to prove.
+### How to use neural networks to recognise knots
