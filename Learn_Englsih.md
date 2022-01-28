@@ -94,3 +94,11 @@
 * disgust -- strong feeling of dislike or repulsion
 * nausea --the feeling that you are going to vomit or be sick
 * raise/ make a sthink about something -- make a strong public complaint
+### The language of wine
+* plonk -- cheap, poor quality wine
+* connoisseur -- someone who enjoys a particular thing and knows a lot about it
+* sommelier -- someone who serves and give advice about wine in a restaurant
+* sheer -- word used to emphasise the amount of something; nothing but
+* palate -- describes someone's ability to distinguish and appreciate different tastes
+* encodes -- changes information into something we can use or understand
+
