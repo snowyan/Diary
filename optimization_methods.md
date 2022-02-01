@@ -9,3 +9,5 @@
 * First step is investigating the method feasibility of each design solution
 * Then Estimate of underlying objective of each solution is compared and best solution is adopted
 
+![Optimal Structure](/optimal_structure.png "Optimal Stucture")
+
