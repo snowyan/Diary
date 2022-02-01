@@ -101,4 +101,12 @@
 * sheer -- word used to emphasise the amount of something; nothing but
 * palate -- describes someone's ability to distinguish and appreciate different tastes
 * encodes -- changes information into something we can use or understand
+# Week 4
+### Naked in nature
+* skinny dipping -- swimming naked
+* naturists -- people who think not wearing clothes outdoors is a healthy way to live and it makes them feel good
+* advocate -- publicly support
+* at one with nature -- have a connection with the natural world that makes you feel good
+* liberation -- being freed from something
+* shock, horror -- said to mean something is not shocking or suprising
 
