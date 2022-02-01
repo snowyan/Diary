@@ -9,3 +9,17 @@
   the second is an expression of how to compute it.
   
 ![Spark Eco System](/sparkecosystem.png "Spark Eco System")
+
+### 03 Spark RDD
+* Need for RDDS
+* What are RDDs
+* Features of RDDS
+* Creation of RDDS using spark
+*  three types to create the rdds 
+   1: spark.sparkContext.parallelize() or sc.parallelize()
+   2: spark.read.textFile() 
+   3: use transformation to create a new rdd
+* Operations performed on RDDS
+  1: Transformations -- Narrow Transformations (map(), filter(), flatMap(), partition(), mappartition())and Wide Transformations(reduceBy(), Union())
+  
+  2: Actions -- collect(), count(), take(), First()
