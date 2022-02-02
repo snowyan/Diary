@@ -22,4 +22,7 @@
 * One way to remedy this situation is to make a guess about the optimal solution and set the minimum and maximum bounds so the optimal solution lies within these two bounds.
 ### After the above four tasks are completed, the optimization problem can be mathematically written in a special format, known as nonlinear programming(NLP) format.
 ![Optimal Structure](/optimal_structure.png "Optimal Stucture")
+### The Pros and Cons of Greedy
+* Easy to implement
+* Computationally efficient
 
