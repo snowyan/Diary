@@ -25,4 +25,26 @@
 ### The Pros and Cons of Greedy
 * Easy to implement
 * Computationally efficient
+### Brute Force Algorithm
+* Enumerate all possible combinations of items
+* Remove all of the combinations whose total units exceeds the allowed weight
+* From the remaining combinations choose any one whose value is the largest
+* Implement using search tree
+### the search tree's computational complexity
+* Time based on number of nodes generated
+* Number of levels is number of items to choose from
+* Number of nodes at level i is 2^i
+* So, if there are n items the number of nodes is O(2^(n+1))
+* An obvious optimization: don't explore parts of tree that violate constraint
+### Optimal substructure
+* a globally optimal solution can be found by combining optimal solutions to local subproblems
+### Overlapping subproblems:
+* finding an optimal solution involves solving the same problem multiple times
+### Summary of Lectures 1-2
+* Many problems of practical importance can be formulated as optimization problems
+* Greedy algorithms oftern provide adequate(though not necessarily optimal) solutions
+* finding an optimal solution is usually exponentially hard
+* Bit dynamic programming ofter yields good performance for a subclass of optimization problems -- those with optimal substructure and overlapping subproblems
+  Solution always correct
+  Fast under the right circumstances
 
