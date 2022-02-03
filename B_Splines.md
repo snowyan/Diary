@@ -52,3 +52,9 @@
 * A poor selection of the location of knots can lead to splines that are not even competitive with a simple polynomial regression
 ### How to use genetic algorithm to improve our knot placement
 * Evaualting estimator performance
+### How to choose the number and locations of the Knots
+* one potential place would be the area of high variability for in those regions the polynomial coefficients can change rapidly
+* one option is to place more knots in place where we feel the function might vary most rapidly and to place fewer knots where it seems more stable
+* in practice it is common to place knots in a uniform fashion
+* another option is to try out different numbers of knots and see which produces the best looking curve.
+* 
