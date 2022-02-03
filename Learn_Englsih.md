@@ -109,4 +109,11 @@
 * at one with nature -- have a connection with the natural world that makes you feel good
 * liberation -- being freed from something
 * shock, horror -- said to mean something is not shocking or suprising
+### Comfort Food
+* comforter -- something that makes us feel relaxed and feel good.
+*  culinary -- connected to cooking
+*  associated -- made a connection in our mind with something
+*  irrelevant -- not important or has no connection with the discussion taking place
+*  nuanced -- small but important differences
+*  take comfort -- don't feel so bad(because of something else)
 
