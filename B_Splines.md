@@ -36,3 +36,19 @@
 * the trivial usually refers to a simple technical aspect of some proof or difinition
 * the non-trivial is commonly used to indicate that the example or a solutin is not simple, or that a statement or a theorem is not easy to prove.
 ### How to use neural networks to recognise knots
+### Penalised splines(P-Splines
+### Basic Splines(B-Splines)
+### What is K-fold Cross Validation?
+* Cross validation is an example of a resampling method
+* The primary use of cross validation is to select the best tuning parameters
+### What is Bootstrap?
+* Bootstrap is an example of a resampling method
+* Its primary use is uncertainty estimation
+* If you have a set of n data points(x1,x2,...,xn) then the bootstrap method would take a sample of these of size n 
+  whith replacement so some of the data points may be repeated multiple times and others may not get selcted at all
+* Measuring the statistic of interest for each of these bootstrapped samples then allows you to determine the variance of that statistic
+### The importance of knot positioning
+* The positions of the Knots for a spline can have a very large impact on how good a fit it provides to the data points
+* A poor selection of the location of knots can lead to splines that are not even competitive with a simple polynomial regression
+### How to use genetic algorithm to improve our knot placement
+* Evaualting estimator performance
