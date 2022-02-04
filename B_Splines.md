@@ -57,4 +57,8 @@
 * one option is to place more knots in place where we feel the function might vary most rapidly and to place fewer knots where it seems more stable
 * in practice it is common to place knots in a uniform fashion
 * another option is to try out different numbers of knots and see which produces the best looking curve.
-* 
+### What is P-splines
+### Waht is A_splines
+### Spline Regression with Automatic Knot Selection
+* a new method for automatically selecting knots in spline regression
+* Through setting a large number of initial knots and fitting the spline regression through a penalized likihood procedure called adaptive ridge.
