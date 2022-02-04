@@ -58,7 +58,14 @@
 * in practice it is common to place knots in a uniform fashion
 * another option is to try out different numbers of knots and see which produces the best looking curve.
 ### What is P-splines
+* 
 ### Waht is A_splines
+### What is MARS
+* Multivariate Adaptive Regression Splines -- Friedman(1991) developed a multivariate variable selction techniqure
 ### Spline Regression with Automatic Knot Selection
 * a new method for automatically selecting knots in spline regression
 * Through setting a large number of initial knots and fitting the spline regression through a penalized likihood procedure called adaptive ridge.
+### What is Spline regression
+* Spline regression is performed by choosing a set of knots and by finding the spline defined over these knots that minimizes the residual sum of squares.
+* For the number of knots it has an important influence in the resulting fit: with not enough knots the regression is underfitted and with too many knots it is overfitted. So choosing the position of knots is very important
+* 
