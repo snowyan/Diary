@@ -26,3 +26,15 @@
   2: Actions -- collect(), count(), take(), First()
 ### 04
 ### 05 Spark SQL
+* Why Spark SQL
+* Spark SQL libraries
+* Spark SQL Features
+  * SQL Integration with Spark
+  * Uniform Data Access
+  * Seamless Support
+  * Transformations
+  * Performance
+  * Standard Connectivity
+  * User Defined Functions
+* Hands-on Examples
+* Stock Market Use Case
