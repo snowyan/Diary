@@ -13,6 +13,7 @@
 ### 03 Spark RDD
 * Need for RDDS
 * What are RDDs
+  * RDD is the heart of Apache spark
 * Features of RDDS
 * Creation of RDDS using spark
 *  three types to create the rdds 
@@ -23,3 +24,5 @@
   1: Transformations -- Narrow Transformations (map(), filter(), flatMap(), partition(), mappartition())and Wide Transformations(reduceBy(), Union())
   
   2: Actions -- collect(), count(), take(), First()
+### 04
+### 05 Spark SQL
