@@ -116,4 +116,11 @@
 *  irrelevant -- not important or has no connection with the discussion taking place
 *  nuanced -- small but important differences
 *  take comfort -- don't feel so bad(because of something else)
+### Flexible working
+* routine -- the usual , fixed way of doing things
+* common sense -- our judgement to make sensible decisions
+* match -- work equally on both sides
+* inflexible -- unwilling to change
+* bias -- unfairness; treating one group of people more favourably than another
+* active -- involved with (something)
 
