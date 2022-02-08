@@ -38,3 +38,8 @@
   * User Defined Functions
 * Hands-on Examples
 * Stock Market Use Case
+* How to use SQL
+  * import org.apache.spark.sql.SparkSession
+  * import spark.implicits
+  * val df = spark.read.json()
+  * df.show()
