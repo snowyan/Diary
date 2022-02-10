@@ -43,4 +43,12 @@
   * import spark.implicits
   * val df = spark.read.json()
   * df.show()
+  * Adding Schema - Reading File and Adding Schema
+  * Json data
+  * Hive tabels - Case class and Spark Session
+  * Hive Tables -- SQL & DataFrame Transformation
+  * Hive Tables -- Result
+* Use case --Stock Market trading
+  * The Requirements: 1, Process huge data 2, Handle input from multiple sources 3, Process data in real-time 4, Easy to use and not very complex
+  * Implementing Stock Analysis Using Spark SQL
  
