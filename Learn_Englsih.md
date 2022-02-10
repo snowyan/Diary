@@ -123,4 +123,11 @@
 * inflexible -- unwilling to change
 * bias -- unfairness; treating one group of people more favourably than another
 * active -- involved with (something)
+### Loneliness
+* keep someone company -- spend time with someone so they don't get lonely
+* socail change -- shift in how people behave and think
+* sugbufucabt other -- partner
+* solitude -- being alone
+* pinch points -- times in your life where there are difficulties and things slow down or change
+* chronic -- long lasting(health condition)
 
