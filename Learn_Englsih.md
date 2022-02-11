@@ -130,4 +130,12 @@
 * solitude -- being alone
 * pinch points -- times in your life where there are difficulties and things slow down or change
 * chronic -- long lasting(health condition)
+### Have dinner with Matinas and Atas in Vietnam Resteraunt
+* Vietnam
+* Vietnamese
+* Vietnamese rice noodles
+* Matinas and Atas are Lithuania， Lithuanian
+* Netherlands Dutch
+* Germany German 
+* Denmark Danish
 
