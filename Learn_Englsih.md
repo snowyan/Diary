@@ -138,4 +138,5 @@
 * Netherlands Dutch
 * Germany German 
 * Denmark Danish
+* Thailand Thai
 
