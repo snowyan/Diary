@@ -54,4 +54,6 @@
   * Implementing Stock Analysis Using Spark SQL
 * Running SQL Queries
   * Register the DataFrame as a SQL temporary view (df.createOrReplaceTempView("people")
+* What is Spark SQL
+* Why 
  
