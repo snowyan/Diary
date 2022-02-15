@@ -139,4 +139,11 @@
 * Germany German 
 * Denmark Danish
 * Thailand Thai
-
+# Week 6
+### Why do we choose to text instead of talk?
+* intonation -- musical way someone's voice rises and falls when speaking; vocal changes which often effect the meaning of what is said.
+* intention -- idea or plan of something you are going to do
+* phrase -- small group of words often with a particular meaning
+* in person -- actually physically present or face to face, instead of via email, telephone or text
+* get annoyed -- become angre, upset or irritated
+* minefild/ treading on mines -- situation full of hidden problems and dangers where people need to act carefully
