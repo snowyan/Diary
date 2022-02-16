@@ -147,3 +147,11 @@
 * in person -- actually physically present or face to face, instead of via email, telephone or text
 * get annoyed -- become angre, upset or irritated
 * minefild/ treading on mines -- situation full of hidden problems and dangers where people need to act carefully
+### Could humans live in undewater cities?
+* seabed -- solid surface of the earth that lies under the ocean, at least 1.8 kilomteres underwater
+* natural resources -- naturally existing things such as minerals, forests, coal and other energy soruces that can be used by people
+* vertically -- standing or pointing stringht up and down at an angle 90 degrees, perpendicular to the ground, as opposed to horizontally parallel to the ground
+* the bends -- decompression sickness a serious medical sickness caused by nitrogen bubbles in the muscle tissurs, resulting from return to the surface of the sea too quickly when diving
+* physiologically -- relating to how the bodies of living humans and animals function
+* atmospheric pressure -- the normal air pressure within the Earth's atmosphere
+* <Twenty Thousand Leagues Under the Sea> by H G Wells
