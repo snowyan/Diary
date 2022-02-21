@@ -163,3 +163,11 @@
 * does what it says on the tin -- does exactly what it is intended to do(informal)
 * trials -- tests carried out over a limited time period, to discover how effective or suitable something is 
 * who invented the World Wide Wed? --- Tim Berners-Lee
+# Week7
+### Will Covid-19 change cities?
+* airborne -- carried and spread in the air
+* metropolis -- largest, busiest and most important city in a country or region
+* antibiotics -- chemical or medicine, like penicillin, that can destory harmful baaceria or stop their growth
+* spread like wildlife -- spead quickly around many people
+* commute -- distance you travel on your journey between your home and you place of work
+* livelihood -- job or other way of earning money to pay for what you need to live
