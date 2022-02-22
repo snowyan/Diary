@@ -8,3 +8,5 @@
 ### 3.how to remove databricks folder
 * notes the path does not include /dbfs
 * dbutils.fs.rm(("/snow/MNISTDemo/train"), recurse=True)
+### How to know how many cores in mac
+* "About this mac"->"System Report"->"Hardware"->"Hardware Overview"
