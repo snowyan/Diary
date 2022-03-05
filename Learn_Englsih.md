@@ -171,3 +171,13 @@
 * spread like wildlife -- spead quickly around many people
 * commute -- distance you travel on your journey between your home and you place of work
 * livelihood -- job or other way of earning money to pay for what you need to live
+# Week 8
+* Sport holiday
+# Week 9
+### Exam time
+* revise --
+* reckon --
+* beaming
+* fluffy -- fluffy hair; fluffy cat
+* panic -- fear, covid panic 
+* grin -- a broad smile
