@@ -181,3 +181,6 @@
 * fluffy -- fluffy hair; fluffy cat
 * panic -- fear, covid panic 
 * grin -- a broad smile
+# Week 10
+### No Pets Here
+* 
