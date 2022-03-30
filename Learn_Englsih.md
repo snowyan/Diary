@@ -188,5 +188,9 @@
 * Nell's book
 # Week 12
 * Abdu and the traffic jam
+# Week 13
+* Clunky  Fragile rational bluff gangrene fickle toggle
+* Pathology benign intervention atypical feasible humility
+  
   
   
