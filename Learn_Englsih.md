@@ -191,6 +191,8 @@
 # Week 13
 * Clunky  Fragile rational bluff gangrene fickle toggle
 * Pathology benign intervention atypical feasible humility
+* mammogram trigae cohort catalog disaster
+  
   
   
   
